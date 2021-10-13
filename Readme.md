@@ -10,7 +10,8 @@
 
 「Setting.ini」にAPIキーを代入してからプログラムを利用してください。
 
-・iniファイル（Setting.ini）
+    ・iniファイル（Setting.ini）
+    
     [Setting]
     - Url               : 接続先URL
     - Output            : 出力ファイル名
