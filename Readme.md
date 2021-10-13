@@ -26,5 +26,4 @@
     - q                 
     - key               
 
-ÅECLI:
-    - YoutubeSearch.exe [search_keyword]
+    ÅECLI Command: YoutubeSearch.exe [search_keyword]
